@@ -43,3 +43,8 @@ li.done span {
 .add-item {
   background-color: darkturquoise;
 }
+
+.done{
+  color: gray;
+  text-decoration: line-through;
+}
